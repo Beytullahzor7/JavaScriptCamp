@@ -1,2 +1,2 @@
 # advancedJavaScript
-Starter kit for my JS Courses
+Documents of my javascript bootcamp
