@@ -29,7 +29,7 @@ class IndividualCustomer extends Customer{
 class CorporateCustomer extends Customer{
     constructor(companyName, id , customerNumber){
         super(id, customerNumber)
-        this.companyName = companyName
+        this.companyName = companyName 
     }
     
 }
