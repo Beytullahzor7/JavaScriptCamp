@@ -68,5 +68,4 @@ console.log(high)
 function someFunction([small1],number) { //populations arrayı içerisindeki ilk değeri small1 olarak atama yapar
     console.log(small1)
 }
-
 someFunction(populations)
