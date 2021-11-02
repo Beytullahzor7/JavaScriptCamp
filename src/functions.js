@@ -77,7 +77,6 @@ function add(...numbers) { //gönderilen parametleri bir array içerisine koy
 
 add(5,6,7) //aslında burası let = [5,6,7] dir ve bunu funtion add() içerisine yollayarak fonksiyon işlemlerini gerçekleştirir
 
-
 let numbers = [10,200,30,40,50]
 console.log(numbers)
 console.log(...numbers)
