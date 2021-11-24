@@ -4,4 +4,5 @@ export default class DataError{
         this.message = message,
         this.data = data
     }
+
 }
